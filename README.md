@@ -2,7 +2,7 @@
 
 Usage without permission from the organizing SBs' is strictly prohibited.
 
-### Hosted at: [tcn.ieeemec.org](tcn.ieeemec.org)
+### Hosted at: [tcn.ieeemec.org](https://tcn.ieeemec.org)
 
 ## Credits:
 - Jessica Jolly (Design)
